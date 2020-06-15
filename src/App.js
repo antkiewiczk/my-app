@@ -10,7 +10,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload. Ssij fjuta
         </p>
-        <button style={{ background: 'orange' }}>Click me</button>
+        <button style={{ background: 'blue' }}>Click me</button>
         <a
           className="App-link"
           href="https://reactjs.org"
